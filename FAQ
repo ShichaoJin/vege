@@ -13,3 +13,6 @@ A: 专家账号暂时只能通过您填写基本的账号设置信息表发送�
 
 Q3:网页端测试
 关于测试网页的网址。 你如果手机是测试版本的app，对应网页端http://47.92.31.246:9004/vege/www/#/home      如果是正式版本的app，对应https://survey.chinavegetation.org/vege/www/#/login
+
+Q4:普通用户登陆网页端？
+A:网页端网址：https://survey.chinavegetation.org/vege/www,选择扫描登陆，随后在手机端通过 我-》扫一扫 后登陆。
